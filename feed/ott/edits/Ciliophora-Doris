@@ -3,3 +3,6 @@
 #add  Acanthotrema frischii	species	Acanthotrema	Fungi	if:516851
 command	name	rank	parent	context	sourceInfo
 add	Ephelota mammillata	species	Ephelota	Ciliophora	http://onlinelibrary.wiley.com/doi/10.1111/zsc.12040/abstract
+add	Ephelota truncata	species	Ephelota	Ciliophora	http://onlinelibrary.wiley.com/doi/10.1111/zsc.12040/abstract
+add	Dysteria proera	species	Ephelota	Ciliophora	http://onlinelibrary.wiley.com/doi/10.1111/zsc.12040/abstract
+add	
