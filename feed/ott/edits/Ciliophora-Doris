@@ -1,0 +1,5 @@
+# E.g. (without the # signs)
+#command	name	rank	parent	context	sourceInfo
+#add  Acanthotrema frischii	species	Acanthotrema	Fungi	if:516851
+command	name	rank	parent	context	sourceInfo
+add	Ephelota mammillata	species	Ephelota	Ciliophora	http://onlinelibrary.wiley.com/doi/10.1111/zsc.12040/abstract
